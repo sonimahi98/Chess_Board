@@ -1,0 +1,27 @@
+#parent-container{
+    height: 800px;
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    border:15px solid goldenrod;
+}
+.white{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border:1px solid rgb(66, 38, 133); */
+
+}
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border:1px solid rgb(64, 37, 132); */
+
+}
